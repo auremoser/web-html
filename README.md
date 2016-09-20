@@ -1,5 +1,7 @@
-## web-intro-2
-[curriculum] intro to web: part 2 html/css for Parsons: The New School
+## web-html
+[curriculum] intro to html for SVA-DSI
+
+![Graffiti](https://raw.githubusercontent.com/auremoser/web-intro/master/images/graf.jpg)
 
 ### description
 
@@ -13,10 +15,11 @@ Introduction to HTML5 will cover the history of HTML5, the advances, the drawbac
 
 ### slides + demo links
 
-* Slides for [Part 1](https://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
-* Slides for [Part 2](https://auremoser.github.io/web-intro-2) + [Code](https://github.com/auremoser/web-intro-2)
+* Slides for [Part 1](hhttps://auremoser.github.io/web-concepts) + [Code](https://github.com/auremoser/web-concepts)
+* Slides for [Part 2](hhttps://auremoser.github.io/web-intro)
++ [Code](https://github.com/auremoser/web-intro)
 * Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
-* Practice [Files and Exercises](https://github.com/auremoser/web-intro-2/tree/master/practice)
+* Practice [Files and Exercises](https://github.com/auremoser/web-concepts/tree/master/practice)
 
 ### credits
 
