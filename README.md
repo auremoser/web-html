@@ -16,8 +16,7 @@ Introduction to HTML5 will cover the history of HTML5, the advances, the drawbac
 ### slides + demo links
 
 * Slides for [Part 1](hhttps://auremoser.github.io/web-concepts) + [Code](https://github.com/auremoser/web-concepts)
-* Slides for [Part 2](hhttps://auremoser.github.io/web-intro)
-+ [Code](https://github.com/auremoser/web-intro)
+* Slides for [Part 2](hhttps://auremoser.github.io/web-intro) + [Code](https://github.com/auremoser/web-intro)
 * Interactive [Code Academy Break](http://webdive.ktam.org/web/basics)
 * Practice [Files and Exercises](https://github.com/auremoser/web-concepts/tree/master/practice)
 
