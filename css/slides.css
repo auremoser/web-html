@@ -71,6 +71,14 @@ li.opera {
   width: 50px;
 }
 
+/* elements list, source/slides.css */
+div.halfblock{
+  float: left;
+  width: 45%;
+  text-align: left;
+  margin-right: 5%;
+}
+
 /******************************
 * Class 2 Attribute Selectors
 *******************************/
